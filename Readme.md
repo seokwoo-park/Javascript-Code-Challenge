@@ -7,7 +7,7 @@
 ## Difficulty
 
 - ★☆☆☆☆ - Beginner
-- ★☆☆☆☆ - Easy
+- ★★☆☆☆ - Easy
 - ★★★☆☆ - Medium
 - ★★★★☆ - HARD
 - ★★★★★ - VERY HARD
